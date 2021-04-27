@@ -71,4 +71,5 @@ quizInfo = get_response()
 parse(quizInfo)
 
 import os
-os.startfile(r"C:\Users\owenw\vscode\projects\scratch\data")
+os.startfile(r"C:\Users\owenw\vscode\projects\Quizizz\data")
+os.startfile(r"C:\Users\owenw\vscode\projects\Quizizz\data\answers.html")

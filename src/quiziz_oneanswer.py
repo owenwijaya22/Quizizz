@@ -3,7 +3,7 @@ import json
 
 def get_response():
     pin = input('Pin: ')
-    url = f"https://abstract.land/api/quizizz/?pin={pin}"
+    url = f"https://abstract.land/quizizz/?pin={pin}"
 
     headers = {
         'authority': 'abstract.land',
